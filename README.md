@@ -12,6 +12,7 @@
 <img width="728" height="623" alt="изображение" src="https://github.com/user-attachments/assets/c2774d05-282f-4b4d-9367-c4579fec5180" />  
 <img width="977" height="382" alt="изображение" src="https://github.com/user-attachments/assets/63158e8e-8897-4a14-8c06-d994b4cce751" />  
 Видим, что сборка пересобралась успешно и цвет текста изменился  
+1
 
 
 
